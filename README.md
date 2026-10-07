@@ -82,7 +82,7 @@ manual-testing-portfolio/
 ## Contact
 
 - LinkedIn: [linkedin.com/in/aniruddhayadav12](https://linkedin.com/in/aniruddhayadav12)
-- Portfolio: [aniruddhayadav.in](https://aniruddhayadav.in)
+
 
 ## License
 
