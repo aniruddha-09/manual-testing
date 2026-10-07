@@ -2,7 +2,7 @@
 
 This repository is a manual testing portfolio for [SauceDemo](https://www.saucedemo.com)
 (Swag Labs), a public e-commerce practice site built for testing practice. It shows how I
-approach testing as a QA fresher: a written test plan, 34 hand-designed test cases covering
+approach testing as a QA fresher: a written test plan, 34 test cases (drafted with AI assistance and reviewed and executed by me) covering
 positive, negative, boundary, UI and exploratory scenarios, a defect template and bug log,
 and a small Python (standard library only) reporting pipeline that turns my CSV results into
 a summary report. No automation or load tests are run against the site — every result in this
