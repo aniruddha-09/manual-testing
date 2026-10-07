@@ -58,8 +58,10 @@ https://www.saucedemo.com.
 - **Exploratory testing** — time-boxed, charter-based sessions comparing the
   behaviour of `problem_user` and `visual_user` against `standard_user` on the
   same flows; observations are logged as exploratory test cases.
-- **Cross-browser spot check** — repeat a smallsmoke subset (login, add to cart, checkout) on [TODO: browser + version] and a
-  second browser [TODO: second browser + version] to check for browser-specific issues. Spot check only; not a full matrix.
+- **Cross-browser spot check** — repeat a small smoke subset (login, add to
+  cart, checkout) on [TODO: browser + version] and a second browser
+  [TODO: second browser + version] to check for browser-specific issues.
+  Spot check only; not a full matrix.
 
 ## 5. Test Environment
 
