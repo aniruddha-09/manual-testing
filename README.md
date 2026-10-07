@@ -7,8 +7,8 @@ positive, negative, boundary, UI and exploratory scenarios, a defect template an
 and a small Python (standard library only) reporting pipeline that turns my CSV results into
 a summary report. No automation or load tests are run against the site — every result in this
 repo is meant to come from a real manual test run.
+The test plan structure, test case drafts, and reporting scripts were generated with Codebuff. All test execution, results, evidence, and bug reports are my own
 
-**Author:** Aniruddha Yadav · QA fresher
 
 ## What I tested
 
