@@ -66,7 +66,9 @@ manual-testing-portfolio/
 ## Results summary
 
 <!-- SUMMARY:START -->
-_Run `python scripts/generate_summary.py` to populate this table from the CSVs._
+| Total | Pass | Fail | Blocked | Not Run | Pass % (executed only) | Defects |
+|------:|-----:|-----:|--------:|--------:|------------------:|--------:|
+| 34 | 0 | 0 | 0 | 34 | N/A | 0 |
 <!-- SUMMARY:END -->
 
 ## Key findings
